@@ -1,6 +1,6 @@
 ## About me
 
-I am a data science enthusiast who is motivated by the applications of artificial intelligence in solving world problems. An open minded individual who is willing to learn new things enjoys telling stories with data. I hold a Bsc in Statistics and Financial Mathematics and i'm currently studying Msc in Data Analytics. I am currently [Zindi Africa](https://zindi.africa/) ambassador. Zindi is the first and largest community of African data scientists with the objective of solving the world's most pressing challenges using artificial intelligence and machine leaning. I am also a team lead at  [Data Science Zimbabwe](https://zimbabwedata.science/about/about.html). 
+I am a data science enthusiast who is motivated by the applications of artificial intelligence in solving world problems. An open minded individual who is willing to learn new things and enjoys telling stories with data. I hold a Bsc in Statistics and Financial Mathematics and i'm currently studying Msc in Data Analytics. I am currently [Zindi Africa](https://zindi.africa/) ambassador. Zindi is the first and largest community of African data scientists with the objective of solving the world's most pressing challenges using artificial intelligence and machine leaning. I am also a team lead at  [Data Science Zimbabwe](https://zimbabwedata.science/about/about.html). 
 
 ## Projects
 ### 1. [Opening a Food Outlet in Harare, Zimbabwe](https://github.com/leotafadzwa/IBM-Data-Science-Professional-Certificate-Capstone-Course)
